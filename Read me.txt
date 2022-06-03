@@ -1,0 +1,12 @@
+Yazılımı çalıştırmak için gerekli olan kütüphaneler:
+
+import cv2
+import numpy as np
+import dlib
+from math import hypot
+import winsound
+import datetime, time
+import threading
+
+
+Not: Kamerayı takmayı unutmayınız
